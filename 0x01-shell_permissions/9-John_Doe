@@ -1,4 +1,4 @@
-#!/ban/bash
+#!/bin/bash
 chmod 753
 #!/ban/bash
 chmod 753
